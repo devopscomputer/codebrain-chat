@@ -1,0 +1,7 @@
+{
+    "default_mode": "modo_hacker",
+    "allow_streaming": true,
+    "auto_refactor": false,
+    "language_fallback": "Python"
+  }
+  
