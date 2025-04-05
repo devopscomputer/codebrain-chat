@@ -1,0 +1,10 @@
+[
+    {
+      "id": "mdn_001",
+      "source": "MDN",
+      "lang": "JavaScript",
+      "title": "Array.prototype.map()",
+      "content": "O método map() cria um novo array com os resultados..."
+    }
+  ]
+  
